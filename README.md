@@ -1,2 +1,5 @@
 # OAH
-Allows sending and receiving messages beteen frames in same domain.
+
+Open Ajax Hub
+
+Allows sending and receiving messages between frames in same domain.
