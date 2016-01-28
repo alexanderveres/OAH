@@ -2,7 +2,7 @@
 * Open Message Hub project.
 * Allows communication between IFRAMEs in same domain.
 *
-* version 0.1beta
+* version 0.1 beta
 *
 * author: Alexander Veres
 */
